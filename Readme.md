@@ -21,6 +21,4 @@ The project utilizes Python libraries like pandas for data manipulation, seaborn
 
 You can run the Jupyter notebook in an environment that has the necessary libraries installed. Make sure to update the path to the CSV file as per your directory structure.
 
-## Future Work
 
-This project provides valuable insights into unemployment patterns in India. Future work could involve more detailed analysis or the use of machine learning models to predict future trends.
